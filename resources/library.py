@@ -1,5 +1,4 @@
 from IPython.display import HTML, IFrame
-from ipywidgets import Video
 import warnings
 
 def style_notebook():
