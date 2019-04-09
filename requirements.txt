@@ -1,2 +1,2 @@
 gtts
-ipywidgets==7.4*
+ipywidgets
