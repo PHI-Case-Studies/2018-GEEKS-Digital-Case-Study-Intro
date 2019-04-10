@@ -1,2 +1,2 @@
 #!/bin/bash
-pip install --user gtts ipywidgets
+pip install --user ipywidgets
