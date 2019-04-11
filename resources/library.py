@@ -1,4 +1,4 @@
-from IPython.display import HTML, IFrame
+from IPython.display import HTML, IFrame, Audio
 import warnings
 
 def style_notebook():
@@ -12,6 +12,6 @@ def show_youtube(url, width, height):
     return IFrame(url,width,height)
 
 def play_mp3(file):
-    return HTML('<audio src="'+file+'" controls><p>If you are reading this, it is because your browser does not support the audio element</p></audio>')
+    return Audio(file)
 
 warnings.filterwarnings('ignore')
