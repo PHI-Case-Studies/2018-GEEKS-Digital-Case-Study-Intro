@@ -1,3 +1,3 @@
 #!/bin/bash
-source /home/nbuser/anaconda3_501/bin/activate
-pip install --user ipywidgets gtts
+source /home/nbuser/anaconda3_420/bin/activate
+pip install ipywidgets gtts
