@@ -3,6 +3,14 @@
 [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2018-GEEKS-Digital-Case-Study-Intro/master) [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/PHI-Case-Studies/2018-GEEKS-Digital-Case-Study-Intro)
 
 ## TLDR;
-This is a set of [Jupyter Notebooks](https://jupyter.org/) to introduce **digital case studies**. Click on the [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2018-GEEKS-Digital-Case-Study-Intro/master) or the [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/PHI-Case-Studies/2018-GEEKS-Digital-Case-Study-Intro)link above. Wait a few minutes for the binder or Microsoft Azure Notebook to complete its setup and launch.
+This is a set of [Jupyter Notebooks](https://jupyter.org/) to introduce **digital case studies**. Click on the [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2018-GEEKS-Digital-Case-Study-Intro/master) or the [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/PHI-Case-Studies/2018-GEEKS-Digital-Case-Study-Intro)link above. Wait a few minutes for the binder or Microsoft Azure Notebook to complete its setup and launch. Click on **NB01-GEEKS-Case-Study-Introduction.ipynb** to launch the Introduction notebook.
 
-## Outline
+## Notes
+1. **NB00-Case-Study-Intro-Prepare-Environment.ipynb**: Run this when not using Binder or Microsoft Azure Notebook.
+2. **NB01-GEEKS-Case-Study-Introduction.ipynb**: This notebook contains the "Introduction to Digital Case Studies". Run this notebook before the other digital case studies.
+3. To use Microsoft Azure Notebook, you need to create an account at https://notebooks.azure.com.
+
+## Learn More About
+1. [Project Jupyter](https://jupyter.org/)
+2. [BinderHub technology - repo2docker](https://repo2docker.readthedocs.io/en/latest/)
+3. [Microsoft Azure Notebooks](https://notebooks.azure.com/) and [QuickStart Documentation](https://docs.microsoft.com/en-us/azure/notebooks/)
