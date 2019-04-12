@@ -8,7 +8,11 @@ This is a set of [Jupyter Notebooks](https://jupyter.org/) to introduce **digita
 ## Notes
 1. **NB00-Case-Study-Intro-Prepare-Environment.ipynb**: Run this when not using Binder or Microsoft Azure Notebook.
 2. **NB01-GEEKS-Case-Study-Introduction.ipynb**: This notebook contains the "Introduction to Digital Case Studies". Run this notebook before the other digital case studies.
-3. To use Microsoft Azure Notebook, you need to create an account at https://notebooks.azure.com.
+
+## For Microsoft Azure Notebook
+1. To use Microsoft Azure Notebook, you need to create an account at https://notebooks.azure.com.
+2. If you see the popup window below, this means the packages required to run notebooks are still being installed. The window will disappear when package installation is complete.
+[](./images)
 
 ## Learn More About
 1. [Project Jupyter](https://jupyter.org/)
