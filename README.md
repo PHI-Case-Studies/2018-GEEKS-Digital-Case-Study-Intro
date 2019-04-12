@@ -10,7 +10,7 @@ This is a set of [Jupyter Notebooks](https://jupyter.org/) to introduce **digita
 2. **NB01-GEEKS-Case-Study-Introduction.ipynb**: This notebook contains the "Introduction to Digital Case Studies". Run this notebook before the other digital case studies.
 
 ## For Microsoft Azure Notebook
-1. To use Microsoft Azure Notebook, you need to create an account at https://notebooks.azure.com.
+1. To use Microsoft Azure Notebook to launch this GitHub repository, you need to create an account at https://notebooks.azure.com.
 2. If you see the popup window below, this means the packages required to run notebooks are still being installed. The window will disappear when package installation is complete.
 ![](./images/azurenb-wait.png)
 
